@@ -1,0 +1,21 @@
+# Build output
+.next/
+out/
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# Environment (contains your API keys!)
+.env.local
+
+# Font cache
+.ffmpeg-fonts/
+
+# Snapshot tool
+PROJECT_SNAPSHOT.md
+
+# OS files
+.DS_Store
+Thumbs.db
